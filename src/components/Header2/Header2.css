@@ -1,0 +1,13 @@
+.stadium-2{
+    background:url(../../images/stadium2.jpg);
+    height:300px;
+}
+
+.stadium-2 img{
+width:100%;
+}
+
+.header2-style img{
+    width: 100px;
+    padding-top:150px;
+}

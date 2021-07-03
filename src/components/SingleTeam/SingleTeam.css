@@ -1,0 +1,11 @@
+.container-1{
+    border: 1px solid blue;
+    display:flex;
+    background-color:blue;
+    color:white;
+    
+}
+.container-3{
+    color: white;
+     border-radius: 20px;
+}

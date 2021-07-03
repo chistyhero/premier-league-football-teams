@@ -1,0 +1,15 @@
+ 
+.header-image{
+    background-image: url("../../images/stadium.jpg");
+    height:250px;
+     
+}
+.header-image img{
+   
+    width:100%;
+}
+.head-title{
+    text-align: center;
+    padding-top: 100px;
+    color:white;
+}
